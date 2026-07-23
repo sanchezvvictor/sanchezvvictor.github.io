@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: 
 
 profile:
@@ -35,10 +37,10 @@ Before starting my PhD adventure I worked as a Research Engineer at [INRIA Greno
 Research interests after I started my PhD:
 - Multimodal Generative Models applied to Earth Observation Data
 - Remote Sensing applied to Biosphere application
+- Diffusion Models (DMs)
 - Flow Matching
 - Weather Forecasting
 - Generative Adversarial Network (GANs)
-- Diffusion Models (DMs)
 - Diffusion Models applied to Weather Forecasting
 - Reinforement Learning
 - Deep Reinforcement Learning
