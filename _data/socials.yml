@@ -10,10 +10,10 @@ scholar_userid: o-6NoJgAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 linkedin: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:8618f0ba-7d60-4fd5-9fd0-bbd4809031c9/original/as/brandg-business-in-logo-dsk-v03-png-original.png # can be png, svg, jpg
+  logo: https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png # can be png, svg, jpg
   title: Linkedin
   url: https://www.linkedin.com/in/sanchez-victor/
 bluesky: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://fr.wikipedia.org/wiki/Fichier:Bluesky_Logo.svg # can be png, svg, jpg
+  logo: https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bluesky-square-black-icon.png # can be png, svg, jpg
   title: BlueSky
   url: https://bsky.app/profile/sanchezvvictor.bsky.social
