@@ -4,7 +4,7 @@ title: about
 permalink: /
 nav: true
 nav_order: 1
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -33,8 +33,8 @@ I am currently a first year PhD student working on Generative Models applied to 
 
 Before starting my PhD adventure I worked as a Research Engineer at [INRIA Grenoble](https://team.inria.fr/robotlearn/) on Deep Reinforcement Learning applied to Robot Navigation in the [RobotLearn](https://team.inria.fr/robotlearn/) under the supervision of [Xavier Alameda-Pineda](https://xavirema.eu/) and [Chris Reinke](https://www.chris-reinke.com/home). Then I worked as a Research Engineer too at [CNRM - Meteo France](https://www.umr-cnrm.fr/) on Generative Models applied to Ensemble Weather Forecasting in the Previsibility Team under the supervision of [Laure Raynaud](https://cnrm.sedoo.fr/author/raynaudl/) and [Clément Brochet](https://cnrm.sedoo.fr/en/author/clementbrochet/).
 
-
 Research interests after I started my PhD:
+
 - Multimodal Generative Models applied to Earth Observation Data
 - Remote Sensing applied to Biosphere application
 - Diffusion Models (DMs)
@@ -47,6 +47,7 @@ Research interests after I started my PhD:
 - Deep Learning applied to Robotics
 
 Research interests before starting my PhD:
+
 - Weather Forecasting
 - Generative Adversarial Network (GANs)
 - Diffusion Models (DMs)

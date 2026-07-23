@@ -13,4 +13,3 @@ nav_order: 7
     </div>
   </div>
 </div>
-
