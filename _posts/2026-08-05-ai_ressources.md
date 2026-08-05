@@ -1,10 +1,10 @@
 ---
 layout: distill
-title: "Useful Machine Learning ressources"
+title: "Useful Machine Learning resources"
 date: 2026-08-05 15:00:00 +0200
 ---
 
-This page is dedicated to all the Machine Learning ressources I have used during my studies and that I still use today.
+This page is dedicated to all the Machine Learning resources I have used during my studies and that I still use today.
 Listing them here is a way to pay tribute to all the great person that produced them.
 
 # Books
@@ -14,8 +14,8 @@ Listing them here is a way to pay tribute to all the great person that produced 
 If you want to learn about statistical Machine Learning concepts like Regression, Classification, Kernel Methods or Neural Networks
 
 - The one I used to read before going to sleep : [James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An introduction to statistical learning: with applications in R (Vol. 2). New York: springer.](https://www.statlearning.com/)
-- The one that almost everyon knows about : [Bishop, C. M., & Nasrabadi, N. M. (2006). Pattern recognition and machine learning (Vol. 4, No. 4, p. 738). New York: springer.](https://link.springer.com/book/9780387310732) from Christopher M. Bishop
-- Also a great that is very [Murphy, K. P. (2022). Probabilistic machine learning: an introduction. MIT press.](https://probml.github.io/pml-book/book1.html) from [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/) **(Available online for free)**
+- The one that almost everyone knows about : [Bishop, C. M., & Nasrabadi, N. M. (2006). Pattern recognition and machine learning (Vol. 4, No. 4, p. 738). New York: springer.](https://link.springer.com/book/9780387310732) from Christopher M. Bishop
+- Also a great that is good to start [Murphy, K. P. (2022). Probabilistic machine learning: an introduction. MIT press.](https://probml.github.io/pml-book/book1.html) from [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/) **(Available online for free)**
 
 ## Deep Learning concepts
 
@@ -35,10 +35,10 @@ If you are interrested about concepts like Deep Neural Networks, Markov Chains, 
 
 ## Neural ODE concepts
 
-- A complete and great ressour if you want go deeper into NeuralODEs : [Kidger, P. (2022). On neural differential equations. arXiv preprint arXiv:2202.02435.](https://arxiv.org/pdf/2202.02435)
+- A complete and great ressour if you want to go deeper into NeuralODEs : [Kidger, P. (2022). On neural differential equations. arXiv preprint arXiv:2202.02435.](https://arxiv.org/pdf/2202.02435)
 
 # Videos
 
 ## Online Deep Learning course from CNRS
 
-The CNRS deployed this great ressource that I recommend to dive into if you want to start in Deep Learning but you do know how : [Fiddle Deep Learning](https://fidle.cnrs.fr/w3/)
+The CNRS deployed this great resource that I recommend to dive into if you want to start in Deep Learning but you don't know how : [Fiddle Deep Learning](https://fidle.cnrs.fr/w3/)
