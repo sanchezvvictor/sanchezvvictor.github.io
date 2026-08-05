@@ -1,10 +1,8 @@
 ---
 layout: page
 title: code
-permalink: /code/
-description: The codes I coded or that I take inspiration from.
-display_categories: [work, fun]
-horizontal: false
+nav: true
+nav_order: 3
 ---
 
 <div class="post">

@@ -2,8 +2,9 @@
 layout: page
 permalink: /talks/
 title: talks
-description: List of talks I have given with materials.
-calendar: true
+# description: List of talks I have given with materials.
+nav: true
+nav_order: 5
 ---
 
 
