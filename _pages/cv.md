@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /cv/
-title: Curriculum Vitae
+title: cv
 nav: true
 nav_order: 3
 ---
+# Curriculum Vitae
 
 This page is a summary of my career. If you want more info you, here is my [CV](https://sanchezvvictor.github.io/assets/pdf/cv.pdf)
 <div style="border: 1px solid #940000; border-radius: 5px; padding: 10px; margin-bottom: 30px;" markdown=1>
@@ -12,14 +13,14 @@ This page is a summary of my career. If you want more info you, here is my [CV](
 
 ## Academic Career
 
-***PhD (Since 2025) [CESBIO](https://www.cesbio.cnrs.fr/), [ISAE-SUPAERO](https://www.isae-supaero.fr/), Université de Toulouse:*** \
-*Multimodal Generative Models applied to Earth Observation*. \
-Supervision: [Mathieu Fauvel](https://www.cesbio.cnrs.fr/author/mathieu-fauvel/) and [Thomas Oberlin](https://pagespro.isae-supaero.fr/thomas-oberlin/) \
+***PhD (Since 2025) [CESBIO](https://www.cesbio.cnrs.fr/), [ISAE-SUPAERO](https://www.isae-supaero.fr/), Université de Toulouse:***  
+*Multimodal Generative Models applied to Earth Observation*.  
+Supervision: [Mathieu Fauvel](https://www.cesbio.cnrs.fr/author/mathieu-fauvel/) and [Thomas Oberlin](https://pagespro.isae-supaero.fr/thomas-oberlin/)  
 Project : [RELEO](https://aniti.univ-toulouse.fr/fr_fr/representation-learning-for-earth-observation/)
 
-***Master Thesis (2022) - [INRIA Grenoble](https://team.inria.fr/robotlearn/), Grenoble INP-ENSE3, Royal Institute of Technology (KTH)*** \
-*Deep Reinforcement Learning on Social Environment Aware Navigation based on Maps*. \
-Supervision: Xavier Alameda-Pineda and Chris Reinke \
+***Master Thesis (2022) - [INRIA Grenoble](https://team.inria.fr/robotlearn/), Grenoble INP-ENSE3, Royal Institute of Technology (KTH)***  
+*Deep Reinforcement Learning on Social Environment Aware Navigation based on Maps*.  
+Supervision: Xavier Alameda-Pineda and Chris Reinke  
 [[master thesis link](https://sanchezvvictor.github.io/assets/pdf/master_thesis.pdf)]
 
 ***Double Degree (2021-2023) - Royal Institute of Technology (KTH) Stockholm (Sweden)*** 
@@ -30,7 +31,7 @@ Supervision: Xavier Alameda-Pineda and Chris Reinke \
 
 ***Bachelor Thesis (2021) - Deutsches Zentrum fur Luft und Raumfahrt (DLR)*** \
 *Development of simplified models of complex mechatronic systems in vehicles with hybrid modeling*
-Supervision: Caspar Bieri and Johannes Ultsch
+Supervision: Caspar Bieri and Johannes Ultsch  
 [[bachelor thesis link](https://sanchezvvictor.github.io/assets/pdf/bachelor_thesis.pdf)]
 
 ## Teaching Career
