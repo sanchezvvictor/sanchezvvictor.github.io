@@ -2,7 +2,7 @@
 layout: page
 title: code
 permalink: /code/
-description: A growing collection of your cool code.
+description: The codes I coded or that I take inspiration from.
 display_categories: [work, fun]
 horizontal: false
 ---
