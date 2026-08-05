@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: "2026-07-24"
 papers:
   o-6NoJgAAAAJ:9yKSN-GCB0IC:
     citations: 0
-    title: 'OpenSocInt: A Multi-modal Training Environment for Human-Aware Social Navigation'
-    year: '2026'
+    title: "OpenSocInt: A Multi-modal Training Environment for Human-Aware Social Navigation"
+    year: "2026"
   o-6NoJgAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: Deep Reinforcement Learning on Social Environment Aware Navigation based on Maps
-    year: '2023'
+    year: "2023"
