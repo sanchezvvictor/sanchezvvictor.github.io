@@ -15,7 +15,7 @@ If you want to learn about statistical Machine Learning concepts like Regression
 
 - The one I used to read before going to sleep : [James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An introduction to statistical learning: with applications in R (Vol. 2). New York: springer.](https://www.statlearning.com/)
 - The one that almost everyon knows about : [Bishop, C. M., & Nasrabadi, N. M. (2006). Pattern recognition and machine learning (Vol. 4, No. 4, p. 738). New York: springer.](https://link.springer.com/book/9780387310732) from Christopher M. Bishop
-- Also a great that is very [Murphy, K. P. (2022). Probabilistic machine learning: an introduction. MIT press.](https://probml.github.io/pml-book/book1.html) from [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/)
+- Also a great that is very [Murphy, K. P. (2022). Probabilistic machine learning: an introduction. MIT press.](https://probml.github.io/pml-book/book1.html) from [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/) **(Available online for free)**
 
 ## Deep Learning concepts
 
@@ -23,7 +23,7 @@ If you are interrested about concepts like Deep Neural Networks, Markov Chains, 
 
 - The one that taught me everything about Deep Learning (especially about outdated concepts which are fundamental) : [Aggarwal, C. C. (2018). Neural networks and deep learning (Vol. 10, No. 978, p. 3). Cham: springer.](https://link-springer-com.gorgone.univ-toulouse.fr/book/10.1007/978-3-031-29642-0) from [Charu C. Aggarwal](http://www.charuaggarwal.net/)
 
-- [Murphy, K. P. (2023). Probabilistic machine learning: Advanced topics. MIT press.](https://probml.github.io/pml-book/book2.html) from [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/)
+- [Murphy, K. P. (2023). Probabilistic machine learning: Advanced topics. MIT press.](https://probml.github.io/pml-book/book2.html) from [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/) **(Available online for free)**
 
 - The logical next step to the first great book : [Bishop, C. M., & Bishop, H. (2024). Deep learning: Foundations and concepts (Vol. 1). Cham, Switzerland: Springer.](https://www.bishopbook.com/)
 
