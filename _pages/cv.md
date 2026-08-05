@@ -5,7 +5,6 @@ title: cv
 nav: true
 nav_order: 3
 ---
-# Curriculum Vitae
 
 This page is a summary of my career. If you want more info you, here is my [CV](https://sanchezvvictor.github.io/assets/pdf/cv.pdf)
 <div style="border: 1px solid #940000; border-radius: 5px; padding: 10px; margin-bottom: 30px;" markdown=1>
