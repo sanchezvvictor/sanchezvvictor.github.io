@@ -35,7 +35,7 @@ If you are interrested about concepts like Deep Neural Networks, Markov Chains, 
 
 ## Neural ODE concepts
 
-- A complete and great ressour if you want to go deeper into NeuralODEs : [Kidger, P. (2022). On neural differential equations. arXiv preprint arXiv:2202.02435.](https://arxiv.org/pdf/2202.02435)
+- A complete and great ressource if you want to go deeper into NeuralODEs : [Kidger, P. (2022). On neural differential equations. arXiv preprint arXiv:2202.02435.](https://arxiv.org/pdf/2202.02435)
 
 # Videos
 
