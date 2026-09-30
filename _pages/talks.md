@@ -10,12 +10,12 @@ nav_order: 4
 Since my PhD :
 - 25/09/2026 [GdR IASIS Days - Recent Advances in Remote Sensing](https://gdr-iasis.cnrs.fr/reunions/recent-advances-in-remote-sensing-2026/)
 
-  _Diffusion Model for Probabilistic Multimodal Remote Sensing_ 
+  _Poster on Diffusion Model for Probabilistic Multimodal Remote Sensing_ 
 
 - 22/06/2026 [20ème école d’été de Peyresq en Traitement du signal et des images](https://gretsi.fr/peyresq2026)
 
   _Multimodal Diffusion Model for High Resolution Earth Observation Data_
-  [[slides](https://sanchezvvictor.github.io/assets/pdf/Peyresq_2026_Short_Talk.pdf)]
+  <!-- [[slides](https://sanchezvvictor.github.io/assets/pdf/Peyresq_2026_Short_Talk.pdf)] -->
 
 - 12/06/2026 Journées des doctorant·e·s du DISC 2026
 
