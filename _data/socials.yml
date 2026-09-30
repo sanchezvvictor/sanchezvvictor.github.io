@@ -10,22 +10,22 @@ scholar_userid: o-6NoJgAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 linkedin: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png # can be png, svg, jpg
+  logo: https://external-content.duckduckgo.com/ip3/fr.linkedin.com.ico # can be png, svg, jpg
   title: Linkedin
   url: https://www.linkedin.com/in/sanchez-victor/
 bluesky: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bluesky-square-black-icon.png # can be png, svg, jpg
+  logo: https://external-content.duckduckgo.com/ip3/bsky.social.ico # can be png, svg, jpg
   title: BlueSky
   url: https://bsky.app/profile/sanchezvvictor.bsky.social
 orcid:
-  logo: https://orcid.org/assets/vectors/orcid.logo.icon.svg
+  logo: https://external-content.duckduckgo.com/ip3/orcid.org.ico
   title: Orcid
   url: https://orcid.org/my-orcid?orcid=0009-0005-4403-0492
 hal: 
-  logo: https://hal.science/assets/img/hal-logo-header.png
+  logo: https://external-content.duckduckgo.com/ip3/hal.science.ico
   title: HAL
   url: https://hal.science/
 arXiv:
-  logo: https://arxiv.org/static/base/1.0.1/images/arxiv-logo-primary-light.svg 
+  logo: https://external-content.duckduckgo.com/ip3/arxiv.org.ico
   title: ArXiv
   url: https://arxiv.org/search/cs?searchtype=author&query=Sanchez,+V
