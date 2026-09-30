@@ -8,6 +8,9 @@ nav_order: 4
 ---
 
 Since my PhD :
+- 25/09/2026 [GdR IASIS Days - Recent Advances in Remote Sensing](https://gdr-iasis.cnrs.fr/reunions/recent-advances-in-remote-sensing-2026/)
+
+  _Diffusion Model for Probabilistic Multimodal Remote Sensing_ 
 
 - 22/06/2026 [20ème école d’été de Peyresq en Traitement du signal et des images](https://gretsi.fr/peyresq2026)
 
@@ -16,15 +19,15 @@ Since my PhD :
 
 - 12/06/2026 Journées des doctorant·e·s du DISC 2026
 
-  _Poster on Multimodal Diffusion Model for High Resolution Earth Observation Data_ [[poster](https://sanchezvvictor.github.io/assets/pdf/Poster_JIAMF26.pdf)]
+  _Poster on Multimodal Diffusion Model for High Resolution Earth Observation Data_ 
 
 - 09/04/2026 1st OMP PhD Day
 
-  _Poster on Multimodal Diffusion Model for High Resolution Earth Observation Data_ [[poster](https://sanchezvvictor.github.io/assets/pdf/Poster_JIAMF26.pdf)]
+  _Poster on Multimodal Diffusion Model for High Resolution Earth Observation Data_ 
 
 - 09/02/2026 [Journée de l'IA de Météo France 2026](http://www.meteo.fr/cic/meetings/2026/JIA/)
 
-  _Poster on Multimodal Diffusion Model for High Resolution Earth Observation Data_ [[poster](https://sanchezvvictor.github.io/assets/pdf/Poster_JIAMF26.pdf)]
+  _Poster on Multimodal Diffusion Model for High Resolution Earth Observation Data_ 
 
 Before my PhD :
 

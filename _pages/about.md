@@ -50,7 +50,7 @@ Research interests before starting my PhD:
 
 
 ## News
-- 25/09/26 - I will present a poster on my current PhD project about **Diffusion Model for Probabilistic Multimodal Remote Sensing** at [GdR IASIS Days - Recent Advances in Remote Sensing](https://gdr-iasis.cnrs.fr/reunions/recent-advances-in-remote-sensing-2026/)
+- 25/09/26 - I presented a poster on my current PhD project about **Diffusion Model for Probabilistic Multimodal Remote Sensing** at [GdR IASIS Days - Recent Advances in Remote Sensing](https://gdr-iasis.cnrs.fr/reunions/recent-advances-in-remote-sensing-2026/)
 - 21/06/26 - I attended the [Peyresq summer school on generative modelling and optimal transport](https://www.gretsi.fr/peyresq2026) co-organized by [Mathurin Massias](https://mathurinm.github.io/about/) and [Quentin Bertrand](https://qb3.github.io/)
 
 
