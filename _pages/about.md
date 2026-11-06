@@ -49,9 +49,6 @@ Research interests before starting my PhD:
 - Deep Learning applied to Robotics
 
 
-## Internship Offer
-- 15/10/26 - **Master 2 Intership Proposal : Conditioned Multimodal Diffusion Model applied to Earth Observation** [[Offer](https://sanchezvvictor.github.io/assets/pdf/Internship_M2_offer.pdf)]
-
 ## News
 - 09/10/26 - I attended the [GDR IASIS one day workshop on diffusion and flow matching](https://gdr-iasis.cnrs.fr/reunions/modeles-generatifs-diffusion-flow-matching) at ENS Lyon.
 - 08/10/26 - I presented a poster on my current PhD project about **Diffusion Model for Probabilistic Multimodal Remote Sensing** at [3ème séminaire du réseau Télédétection INRAE](https://reseau-teledetection.hub.inrae.fr/actualites/3eme-seminaire-du-reseau-teledetection-inrae).
